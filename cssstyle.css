@@ -25,3 +25,9 @@ p {
     color: rgb(130,120,12);
     background-color: deeppink;
 }
+
+body {
+    background-image: url('ronniecoleman.jpg');
+    background-size: contain;
+    background-position-x: end;
+}
