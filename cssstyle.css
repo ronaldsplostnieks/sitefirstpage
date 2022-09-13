@@ -1,0 +1,27 @@
+h1 {
+    color: black;
+}
+
+ol {
+    color: brown;
+}
+
+dl {
+    color:cadetblue;
+}
+
+p {
+    color: darkred;
+}
+
+.myDiv {
+    border: 3px outset darkgoldenrod;
+    background-color: darkgreen;
+    text-align: center;
+    color: rgb(200,10,255);
+}
+
+.special {
+    color: rgb(130,120,12);
+    background-color: deeppink;
+}
